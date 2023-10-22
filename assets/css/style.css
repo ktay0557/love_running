@@ -24,6 +24,10 @@ header {
     background-color: brown;
 }
 
+h1 {
+    font-family: 'Oswald' sans-serif;
+}
+
 /* Main content */
 main {
     background-color: aquamarine;
