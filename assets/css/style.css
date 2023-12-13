@@ -334,6 +334,28 @@ main {
     #photos {
         column-count: 3;
     }
+
+    /* Signup */
+    #signup {
+        background-position: center;
+        position: relative;
+    }
+
+    #signup-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
+
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
 }
 
 /* Media query: Small laptops and larger (992px and up) */
